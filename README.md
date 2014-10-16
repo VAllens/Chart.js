@@ -18,4 +18,5 @@ When reporting bugs or issues, if you could include a link to a simple [jsbin](h
 ## Simplified Chinese Documentation & Demo
 
 Documentation & Demo:[http://www.bootcss.com/p/chart.js/docs/](http://www.bootcss.com/p/chart.js/docs/)
+
 The Home Page:[http://www.bootcss.com/p/chart.js/](http://www.bootcss.com/p/chart.js/)
